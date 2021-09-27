@@ -1,2 +1,3 @@
 # Hello-Wiorld
-This is a hello world repository created for 2 DAW IEs abastos I am in 
+This is a hello world repository created for 2 DAW IEs abastos I am in and...
+My name is Igor Bilenko and I am triying to finish my DAW  master, this readme file is a short description of what  I am doing and part of an exercise!!
